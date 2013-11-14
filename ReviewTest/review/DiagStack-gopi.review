@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Review id="DiagStack">
+  <ReviewIssue id="HNZUX606">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-11-14 :: 16:00:35:430 GMT+05:30</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-11-14 :: 16:00:51:683 GMT+05:30</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>gopi</ReviewerId>
+    <AssignedTo>prasanna</AssignedTo>
+    <File line="16">src/org/prasanna/regex/StringMatcher.java</File>
+    <Type>item.type.label.optimization</Type>
+    <Severity>item.severity.label.critical</Severity>
+    <Summary>gopi also has a point</Summary>
+    <Description>gopi also has a point</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+</Review>
